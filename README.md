@@ -1,0 +1,1 @@
+# JavaScript.-48-dars.-Easy-Slider
